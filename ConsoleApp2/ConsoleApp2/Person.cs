@@ -19,6 +19,10 @@ namespace ConsoleApp2
                 
 
         }
+        public void display()
+        {
+            Console.WriteLine("Person class");
+        }
         
         public class Student : Person
         {
@@ -74,3 +78,4 @@ namespace ConsoleApp2
         }
     }
 }
+

@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp2.Person</StartupObject>
+    <StartupObject>ConsoleApp2.TestMatrix</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,7 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Figure.cs" />
+    <Compile Include="Loadparentclass.cs" />
+    <Compile Include="Matrix.cs" />
+    <Compile Include="Methodhiding.cs" />
     <Compile Include="Ninethv.cs" />
+    <Compile Include="Overload.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
