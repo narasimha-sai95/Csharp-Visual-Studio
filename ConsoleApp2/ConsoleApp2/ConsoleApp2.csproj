@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp2.TestMatrix</StartupObject>
+    <StartupObject>ConsoleApp2.TestFigures</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
